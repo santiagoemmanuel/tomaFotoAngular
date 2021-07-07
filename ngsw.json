@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1625628421570,
-  "index": "/=https://santiagoemmanuel.github.io/tomaFotoAngular/index.html",
+  "timestamp": 1625629204508,
+  "index": "/tomaFotoAngular/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/favicon.ico",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/index.html",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/main.fd85afe59b2ade3a8ba7.js",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/manifest.webmanifest",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/polyfills.64c51d11501865ad023c.js",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/runtime.03f53c37ccf71fdd66bc.js",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/styles.31d6cfe0d16ae931b73c.css"
+        "/tomaFotoAngular/favicon.ico",
+        "/tomaFotoAngular/index.html",
+        "/tomaFotoAngular/main.fd85afe59b2ade3a8ba7.js",
+        "/tomaFotoAngular/manifest.webmanifest",
+        "/tomaFotoAngular/polyfills.64c51d11501865ad023c.js",
+        "/tomaFotoAngular/runtime.03f53c37ccf71fdd66bc.js",
+        "/tomaFotoAngular/styles.31d6cfe0d16ae931b73c.css"
       ],
       "patterns": [
         "https:\\/\\/stackpath\\.bootstrapcdn\\.com\\/.*"
@@ -31,37 +31,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/css/animate.css",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-128x128.png",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-144x144.png",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-152x152.png",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-192x192.png",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-384x384.png",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-512x512.png",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-72x72.png",
-        "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-96x96.png"
+        "/tomaFotoAngular/assets/css/animate.css",
+        "/tomaFotoAngular/assets/icons/icon-128x128.png",
+        "/tomaFotoAngular/assets/icons/icon-144x144.png",
+        "/tomaFotoAngular/assets/icons/icon-152x152.png",
+        "/tomaFotoAngular/assets/icons/icon-192x192.png",
+        "/tomaFotoAngular/assets/icons/icon-384x384.png",
+        "/tomaFotoAngular/assets/icons/icon-512x512.png",
+        "/tomaFotoAngular/assets/icons/icon-72x72.png",
+        "/tomaFotoAngular/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/css/animate.css": "c4df30c408359843c40a30448bfc10ee45609d1f",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/index.html": "46cf0bc37882441afaf071eae00411ab7390b0ee",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/main.fd85afe59b2ade3a8ba7.js": "e0ab238bc2ac45f0ca7ac4aa07a7b7dd37c84e7d",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/manifest.webmanifest": "407d82ef62f4b3f1fec95202147d2e3128523195",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/polyfills.64c51d11501865ad023c.js": "a559f1831e8e300b461c3c573c44eedeaa18784a",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/runtime.03f53c37ccf71fdd66bc.js": "d3bbaf6fe04f79651e7def84de9a2acb712e1e5e",
-    "/=https://santiagoemmanuel.github.io/tomaFotoAngular/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/tomaFotoAngular/assets/css/animate.css": "c4df30c408359843c40a30448bfc10ee45609d1f",
+    "/tomaFotoAngular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/tomaFotoAngular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/tomaFotoAngular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/tomaFotoAngular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/tomaFotoAngular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/tomaFotoAngular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/tomaFotoAngular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/tomaFotoAngular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/tomaFotoAngular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/tomaFotoAngular/index.html": "a8aea4726cff8822ac2065ebbb24818d08993e2e",
+    "/tomaFotoAngular/main.fd85afe59b2ade3a8ba7.js": "e0ab238bc2ac45f0ca7ac4aa07a7b7dd37c84e7d",
+    "/tomaFotoAngular/manifest.webmanifest": "407d82ef62f4b3f1fec95202147d2e3128523195",
+    "/tomaFotoAngular/polyfills.64c51d11501865ad023c.js": "a559f1831e8e300b461c3c573c44eedeaa18784a",
+    "/tomaFotoAngular/runtime.03f53c37ccf71fdd66bc.js": "d3bbaf6fe04f79651e7def84de9a2acb712e1e5e",
+    "/tomaFotoAngular/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
